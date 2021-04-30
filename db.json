@@ -36,7 +36,11 @@
       "price": 510
     }
   ],
-  "wishlist": [],
+  "wishlist": [
+    {
+      "id": 1
+    }
+  ],
   "cart": [
     {
       "product": {
@@ -747,6 +751,26 @@
         "price": 550
       },
       "id": 71
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "MacBook",
+        "description": " КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ",
+        "imageUrl": "https://cloud.istyles.com/images/Skins/MB13/800/MB13-SUNBEACON.jpg",
+        "price": 590
+      },
+      "id": 72
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "MacBook",
+        "description": " КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ КАКОЙ-ТО ТЕКСТ",
+        "imageUrl": "https://cloud.istyles.com/images/Skins/MB13/800/MB13-SUNBEACON.jpg",
+        "price": 590
+      },
+      "id": 73
     }
   ],
   "posts": [
